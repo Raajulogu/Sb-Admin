@@ -155,7 +155,7 @@ margin-left:230px;
 display: flex;
 flex-direction: row;
 width:100%-230px;
-background-color: rgb(251, 251, 251);
+background-color: rgba(249, 246, 246, 0.97);
 padding-left:20px;
 }
 .topics{
